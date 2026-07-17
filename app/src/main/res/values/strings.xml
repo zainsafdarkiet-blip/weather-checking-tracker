@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Weather Tracker</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_map">Weather Map</string>
+    <string name="title_history">Check-in History</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_about">About Project</string>
+
+    <!-- About Fragment -->
+    <string name="about_app_title">About Weather Tracker</string>
+    <string name="about_app_description">Weather Tracker is a comprehensive utility designed to help users monitor real-time weather conditions based on their GPS location. It features an interactive map for easy navigation and location-based check-ins. Users can save their weather history, view detailed atmospheric data like humidity and wind speed, and manage their saved locations effortlessly. The app is built with a focus on accuracy, providing up-to-date information through reliable weather APIs, all within a modern and user-friendly Material Design interface.</string>
+    <string name="university_name">Air University Karachi Campus</string>
+    <string name="project_type">Complex Engineering Problem (CEP)</string>
+    <string name="metadata_title">Student &amp; Course Metadata</string>
+    <string name="student_name_label">Student Name:</string>
+    <string name="student_name_value">Muhammad Zain</string>
+    <string name="student_id_label">Student ID:</string>
+    <string name="student_id_value">FA21-BSE-024</string>
+    <string name="course_name_label">Course Name:</string>
+    <string name="course_name_value">Mobile Application Development</string>
+
+    <!-- Settings Fragment -->
+    <string name="setting_dark_mode">Dark Mode</string>
+    <string name="setting_dark_mode_desc">Toggle eye-safe night skin theme</string>
+    <string name="setting_save_room">Save Check-ins to Room</string>
+    <string name="setting_save_room_desc">Persists geo-points to database</string>
+    <string name="setting_maps_type">Google Maps Type</string>
+    <string name="map_type_normal">Normal Map View</string>
+    <string name="map_type_satellite">Satellite View</string>
+    <string name="map_type_terrain">Terrain Topography</string>
+    <string name="map_type_hybrid">Hybrid (Satellite + Roads)</string>
+    <string name="danger_zone">Danger Zone</string>
+    <string name="reset_db">Reset Database &amp; Markers</string>
+    <string name="reset_db_desc">Irreversibly delete all records from local DB</string>
+
+    <!-- Map & History -->
+    <string name="delete_checkpoint">Delete Checkpoint</string>
+    <string name="no_history_title">No Saved Check-ins</string>
+    <string name="no_history_desc">Go to the Map tab and press the GPS button to save your first weather mark</string>
+    <string name="nav_header_subtitle">CEP Project Portal</string>
+</resources>
