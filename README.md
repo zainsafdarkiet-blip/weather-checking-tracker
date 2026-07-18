@@ -39,10 +39,8 @@ A comprehensive Android application designed to help users monitor real-time wea
     *   Open the project in Android Studio.
     *   Sync Gradle and run the app on an emulator or physical device.
 
-## Screenshots
-
-*(Add your screenshots here)*
 
 ## Author
 
-*   **Muhammad Zain** - *FA21-BSE-024* - Air University Karachi Campus
+
+*   Muhammad Zain
