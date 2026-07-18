@@ -42,5 +42,4 @@ A comprehensive Android application designed to help users monitor real-time wea
 
 ## Author
 
-
-*   Muhammad Zain
+Muhammad Zain
